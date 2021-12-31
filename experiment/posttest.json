@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " Which one of the following is a variable area meter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "venturimeter",
+        "b": "orificemeter",
+        "c": "Rotameter",
+        "d": "Pitot tube"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Constant coefficient of discharge for venturimeter connected to 2 to 8' pipe diameters is approximately around?",
+      "answers": {
+        "a": "0.6",
+        "b": "0.98",
+        "c": "1",
+        "d": "0.2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Flow –head relationship for venture meter is",
+      "answers": {
+        "a": "linear",
+        "b": "nonlinear",
+        "c": "cannot say"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Diff. Pressure created by a venture tube is",
+      "answers": {
+        "a": "directly propotional to square of flow rate",
+        "b": "directly propotional to the flow rate",
+        "c": "inversely propotional to square of flow rate",
+        "d": "inversely propotional to the flow rate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Venturimeter can be used for measuring the flow rate of",
+      "answers": {
+        "a": "liquid only",
+        "b": "gasses only",
+        "c": "both for liquids and gases"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
