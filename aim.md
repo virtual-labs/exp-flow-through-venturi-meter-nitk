@@ -1,0 +1,2 @@
+<p style="text-align: justify;">To calibrate venturimeter with different <img src="images/CodeCogsEqn (42).gif" style="width:11px;height:16px">* ratios. Determine the flow head relationship for this flow meter. Determine the effect of Reynolds number on the coefficient of discharge (C<sub>D</sub>).</br>
+*<img src="images/CodeCogsEqn (42).gif" style="width:11px;height:16px"> is the ratio of throat diameter to pipe diameter</p>
